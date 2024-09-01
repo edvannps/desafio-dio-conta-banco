@@ -1,12 +1,12 @@
-#Challenge Bootcamp Claro Spring Boot DIO
+# Challenge Bootcamp Claro Spring Boot DIO
 
-###Simulando uma conta báncaria via terminal/console
+### Simulando uma conta báncaria via terminal/console
 
-###Introdução
+### Introdução
 
 - Primeiro desafio DIO na trilha Java básico, criar uma aplicação que se pareça com uma conta bancária.
 
-###Sintaxe - Desafio
+### Sintaxe - Desafio
 
 Exercício para praticar o conteúdo do primeiro módulo de sintaxe básica, codificando o seguinte cenário.
 
@@ -14,8 +14,8 @@ Exercício para praticar o conteúdo do primeiro módulo de sintaxe básica, cod
 
 2. Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.
 
-|:*Atributo*: | :*Tipo*: | :*Exemplo*:    |
-|------------ | -------- | -------------- |
-|:Numero      | :Inteiro | :1021          |
-|:Agencia     | :Texto   | :067-8         |
-|:Nome Cliente| :Texto   | :MARIO ANDRADE |
+|: *Atributo* : | : *Tipo* : | : *Exemplo* :    |
+|-------------- | ---------- | ---------------- |
+|: Numero       | : Inteiro  | : 1021           |
+|: Agencia      | : Texto    | : 067-8          |
+|: Nome Cliente | : Texto    | : MARIO ANDRADE  |
